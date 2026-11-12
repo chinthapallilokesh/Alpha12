@@ -17,4 +17,4 @@ UNIT - 5
 1) Deep Belief Networks
 2) Energy-Based Models
 3) Restricted Boltzmann Machines
-4) Sampling in RBM
+4) Sampling in RBM  vvvvvvvvv
